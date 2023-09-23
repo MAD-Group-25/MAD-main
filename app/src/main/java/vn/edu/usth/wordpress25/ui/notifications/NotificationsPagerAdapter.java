@@ -37,7 +37,6 @@ public class NotificationsPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public CharSequence getPageTitle(int position) {
-        // Retournez le titre de l'onglet en fonction de la position
         switch (position) {
             case 0:
                 return "ALL";
