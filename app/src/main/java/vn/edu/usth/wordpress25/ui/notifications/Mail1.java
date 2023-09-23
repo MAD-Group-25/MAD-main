@@ -69,7 +69,6 @@ public class Mail1 extends Fragment {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == android.R.id.home) {
-            // Utilisez NavController pour revenir en arrière
             NavHostFragment.findNavController(this).navigateUp();
             return true;
         }

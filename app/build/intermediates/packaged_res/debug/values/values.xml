@@ -103,7 +103,7 @@
     <string name="title_activity_account_settings">Account Settings</string>
     <string name="title_activity_my_profil">MyProfile</string>
     <string name="title_activity_tab">TabActivity</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_dashboard">Reader</string>
     <string name="title_home">Home</string>
     <string name="title_me">About me</string>
     <string name="title_notifications">Notifications</string>

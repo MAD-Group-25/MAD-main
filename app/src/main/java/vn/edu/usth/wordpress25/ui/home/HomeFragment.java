@@ -72,17 +72,17 @@ public class HomeFragment extends Fragment {
         startActivity(intent);
     }
 
-    public View findViewByID(int button2) {
-        View view = null;
-
-        return view;
-
-    }
-
-    public void openActivity1(){
-        Intent intent = new Intent(requireActivity(), Activity1.class);
-        startActivity(intent);
-    }
+//    public View findViewByID(int button2) {
+//        View view = null;
+//
+//        return view;
+//
+//    }
+//
+//    public void openActivity1(){
+//        Intent intent = new Intent(requireActivity(), Activity1.class);
+//        startActivity(intent);
+//    }
 
     @Override
     public void onDestroyView() {
