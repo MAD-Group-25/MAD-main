@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_about.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_dialog_logout.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_dialog_logout.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_second.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_unread.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_unread.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_comments.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_comments.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_app_settings.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_app_settings.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notifications.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_me.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_me.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_home.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_public_display_name.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_public_display_name.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_myprofile.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_myprofile.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_commentsononthersites.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_commentsononthersites.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/activity_1.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/activity_1.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_settings.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_settings.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_web_address.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_web_address.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_initial_screen.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_initial_screen.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_3.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_3.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_about_me.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_about_me.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/item_discovery.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/item_discovery.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_change_password.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_maximum_i_s.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_maximum_i_s.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_tab.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_tab.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_image_quality.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_image_quality.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_2.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_2.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_all.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_all.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_email_address.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_email_address.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_first.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/activity_add_site.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/activity_add_site.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/dialog_optional.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/dialog_optional.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_account_settings.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_account_settings.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_first_name.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_first_name.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/content_1.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/content_1.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_4.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_4.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_help.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_help.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_close_acc.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_close_acc.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_1.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_1.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_last_name.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_last_name.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/activity_tab.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/activity_tab.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_follows.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_follows.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notificationstab.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notificationstab.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_mail1.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_mail1.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_appearance.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_appearance.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_dashboard.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_likes.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_likes.xml"
+    }
+]
