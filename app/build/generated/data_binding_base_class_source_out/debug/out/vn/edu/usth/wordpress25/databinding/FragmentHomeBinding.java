@@ -4,10 +4,10 @@ package vn.edu.usth.wordpress25.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatButton;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -21,7 +21,7 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button button2;
+  public final AppCompatButton button2;
 
   @NonNull
   public final TextView textHome;
@@ -29,7 +29,7 @@ public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   public final TextView textView;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull Button button2,
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull AppCompatButton button2,
       @NonNull TextView textHome, @NonNull TextView textView) {
     this.rootView = rootView;
     this.button2 = button2;
@@ -65,7 +65,7 @@ public final class FragmentHomeBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.button2;
-      Button button2 = ViewBindings.findChildViewById(rootView, id);
+      AppCompatButton button2 = ViewBindings.findChildViewById(rootView, id);
       if (button2 == null) {
         break missingId;
       }
